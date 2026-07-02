@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkastrology_garden=self.webpackChunkastrology_garden||[]).push([["1833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello world","permalink":"/blog/obsidian-test","unlisted":false,"date":"2026-06-24T00:00:00.000Z"}]}')}}]);
